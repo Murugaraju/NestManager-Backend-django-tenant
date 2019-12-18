@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a7aea08-b1df-49c8-be98-cb260b25d81e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UwP9nAu10zCMg0cLPjRQYc6pJB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../venv" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a7aea08-b1df-49c8-be98-cb260b25d81e" name="Default Changelist" comment="" />
+      <created>1576264535930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576264535930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="295" y="58" width="800" height="677" key="#Notifications" timestamp="1576265183463">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state x="295" y="58" width="800" height="677" key="#Notifications/35.27.1331.741@35.27.1331.741" timestamp="1576265183463" />
+    <state x="158" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576264737998">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state x="158" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/35.27.1331.741@35.27.1331.741" timestamp="1576264737998" />
+    <state x="473" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576264860361">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state x="473" y="154" width="424" height="484" key="FileChooserDialogImpl/35.27.1331.741@35.27.1331.741" timestamp="1576264860361" />
+    <state x="189" y="31" key="SettingsEditor" timestamp="1576265030799">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state x="189" y="31" key="SettingsEditor/35.27.1331.741@35.27.1331.741" timestamp="1576265030799" />
+    <state x="321" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1576264669352">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state x="321" y="301" key="com.intellij.ide.util.TipDialog/35.27.1331.741@35.27.1331.741" timestamp="1576264669352" />
+    <state x="413" y="89" width="564" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576265128349">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state x="413" y="89" width="564" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/35.27.1331.741@35.27.1331.741" timestamp="1576265128349" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+asgiref==3.2.3
+Django==3.0
+django-tenant-schemas==1.10.0
+djangorestframework==3.11.0
+ordered-set==3.1.1
+psycopg2-binary==2.8.4
+pytz==2019.3
+six==1.13.0
+sqlparse==0.3.0
