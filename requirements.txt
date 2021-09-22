@@ -1,5 +1,5 @@
 asgiref==3.2.3
-Django==3.0
+Django==3.1.13
 django-tenant-schemas==1.10.0
 djangorestframework==3.11.0
 ordered-set==3.1.1
